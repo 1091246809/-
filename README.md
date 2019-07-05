@@ -1,5 +1,5 @@
 # Kaiyuanyingjian
 开源硬件作业
-Morse与keyworld\morsecode 为第二晚作业。
-onclass为第三次课堂小车作业
-7numberexpress为第三节课作业
+Morse文件夹与keyworld\morsecode 为第二晚作业。
+onclass文件夹为第三次课堂小车作业
+7numberexpress文件夹为第三节课作业
